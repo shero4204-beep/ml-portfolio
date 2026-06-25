@@ -17,7 +17,3 @@ This project predicts cardiovascular disease risk using Artificial Neural Networ
 - Synthetic data generation
 - Confusion matrix
 - Accuracy comparison
-
-## Results
-Original ANN Accuracy: XX%
-Synthetic ANN Accuracy: XX%
